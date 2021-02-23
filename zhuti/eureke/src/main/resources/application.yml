@@ -1,0 +1,9 @@
+server:
+  port: 7001
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+    fetch-registry: false # 自身不检索服务
+    register-with-eureka: false #本身不需要当前监控页面管理

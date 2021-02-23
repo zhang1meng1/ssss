@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.kgc.mapper.SubjectsMapper">
+    <!--分页-->
+    <select id="getcount" resultType="int">
+        SELECT COUNT(*) FROM subjects
+    </select>
+    <select id="getlist" resultType="com.kgc.pojo.Subjects">
+        SELECT * FROM subjects
+        ORDER BY createDate DESC
+         LIMIT #{from},#{pagesize}
+    </select>
+    <!-- //#根据主题id  添加查询次数-->
+    <update id="updateviewTimes" parameterType="int">
+        UPDATE subjects
+        SET viewTimes=viewTimes+1
+        WHERE id=#{id}
+    </update>
+    <!--#根据投票进行修改主题的 投票数-->
+    <update id="updatetotalVotes" parameterType="int">
+        UPDATE subjects
+        SET totalVotes=totalVotes+1
+        WHERE id =#{id}
+    </update>
+    <!--根据id查询-->
+    <select id="getsub" resultType="com.kgc.pojo.Subjects">
+        select *
+        from subjects
+        where id=#{id}
+    </select>
+</mapper>  

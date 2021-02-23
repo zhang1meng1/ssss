@@ -1,0 +1,24 @@
+server:
+  port: 8001
+spring:
+  application:
+    name:  ztprovider
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/zhuti?characterEncoding=utf-8&serverTimezone=UTC&useSSL=false
+    username: root
+    password: root
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+
+#mybatis
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    auto-mapping-behavior: full
+
+
+

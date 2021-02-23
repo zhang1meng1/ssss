@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f3efc34-6f6f-4be2-b545-f0655e3077c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\jar" />
+        <option name="mavenHome" value="D:\ideaLu\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o8xFYUVhENN8IcudshyLUhyEsO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springcloud-mybatis" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kgc" />
+      <recent name="com.kgc.service" />
+      <recent name="com.kgc.feign" />
+      <recent name="com.kgc.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideawork\zhuti\ztcomsumer\src\main\resources" />
+      <recent name="D:\ideawork\zhuti\ztprovider\src\main\resources" />
+      <recent name="D:\ideawork\zhuti\eureke\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyComsumerApp">
+    <configuration name="MyComsumerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ztcomsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kgc.MyComsumerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyEurekaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kgc.MyEurekaApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProviderApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ztprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kgc.MyProviderApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MyComsumerApp" />
+        <item itemvalue="Spring Boot.MyProviderApp" />
+        <item itemvalue="Spring Boot.MyEurekaApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f3efc34-6f6f-4be2-b545-f0655e3077c9" name="Default Changelist" comment="" />
+      <created>1612681917094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612681917094</updated>
+      <workItem from="1612681918239" duration="11509000" />
+      <workItem from="1613028885065" duration="2777000" />
+      <workItem from="1613115613257" duration="4799000" />
+      <workItem from="1613611778907" duration="1590000" />
+      <workItem from="1613694177917" duration="1559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1612684523990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="303" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1612684523990" />
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612684363821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1612684363821" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613696041801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613696041801" />
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom" timestamp="1612704347276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612704347276" />
+    <state width="1493" height="184" key="GridCell.Tab.0.center" timestamp="1612704347276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612704347276" />
+    <state width="1493" height="184" key="GridCell.Tab.0.left" timestamp="1612704347276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612704347276" />
+    <state width="1493" height="184" key="GridCell.Tab.0.right" timestamp="1612704347276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612704347276" />
+    <state width="1493" height="184" key="GridCell.Tab.1.bottom" timestamp="1612704347276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612704347276" />
+    <state width="1493" height="184" key="GridCell.Tab.1.center" timestamp="1612704347276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1612704347276" />
+    <state width="1493" height="184" key="GridCell.Tab.1.left" timestamp="1612704347276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1612704347276" />
+    <state width="1493" height="184" key="GridCell.Tab.1.right" timestamp="1612704347276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="184" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1612704347276" />
+    <state x="0" y="56" key="SettingsEditor" timestamp="1612684168440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612684168440" />
+    <state x="823" y="0" width="727" height="727" key="dock-window-1" timestamp="1612683279436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="823" y="0" width="727" height="727" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1612683279436" />
+    <state x="523" y="58" width="727" height="727" key="dock-window-2" timestamp="1612683627762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="58" width="727" height="727" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1612683627762" />
+    <state x="0" y="72" key="new project wizard" timestamp="1613028910571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1613028910571" />
+    <state x="154" y="189" key="run.anything.popup" timestamp="1612686921983">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1612686921983" />
+    <state x="160" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1612682758944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="160" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1612682758944" />
+  </component>
+</project>
